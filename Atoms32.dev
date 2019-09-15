@@ -1,0 +1,11 @@
+[Project]
+FileName=Atoms.dev
+Ver=2
+Type=1
+Compiler=-Qn
+CompilerSet=3
+CompilerSettings=0000000100000000000101000
+Linker=-e ___main -l msvcrt -l kernel32 -l user32
+UnitCount=1
+[Unit1]
+FileName=Atoms.c
