@@ -5,7 +5,7 @@
 * Global (system-wide)
 * Local (application-based)
 
-Atom table is a hash map of strings. So, we may iterate and grab those strings from both stores to show hidden live of operation system.
+Atom table is a hash map of strings. So, we may iterate and grab those strings from both stores to show hidden live of operating system.
 
 ### Compiling
 
